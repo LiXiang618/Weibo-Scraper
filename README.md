@@ -1,7 +1,7 @@
 # Weibo-Scraper
 Although I am not the original author of the code, I made great contribution on its improvement while working as research assistant at school. For the convenience of its further improvement, I upload it onto Github.
 
-## The following README document was created by two students from Lehigh University, Baiyu and Yin. I think it is a good start point to run the program.
+The following README document was created by two students from Lehigh University, Baiyu and Yin. I think it is a good start point to run the program.
 
 ### 1. Purpose:
     This programing is used to web-scraping the data for a specific account by using it's own weibo id.
